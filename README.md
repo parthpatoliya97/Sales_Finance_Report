@@ -13,6 +13,8 @@
 
 -------------------------
 
+### Techniques used :-
+
 #### ETL Process with Power Query : 
 - Extracted data from multiple sources, cleaned inconsistent values, fixed headers, and transformed negative quantities into absolute values.
 
@@ -37,11 +39,7 @@
 #### Conditional Formatting : 
 - Applied conditional formatting to highlight key trends, variances, and important metrics
 
-
-
-
-
-
+-------------------------
 
 ### 1.P&L Insights (2019–2021) - Based on Net Sales, COGS, Gross Margin & GM%
 
