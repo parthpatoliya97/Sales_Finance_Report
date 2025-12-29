@@ -145,15 +145,7 @@
 
 -------------------
 
-### 10. Top 10 Products by Growth (21 vs 20 %)
-
-- Products showed explosive year-over-year growth, led by AQ Mx NB with a 5723% increase, indicating new product success. Collectively, the top 10 high-growth products grew more than 800%, contributing $52M in sales for 2021. AQ Smash 2 stood out as the highest-selling product within this growth group
-
-![top 10 product by 21vs20](https://github.com/parthpatoliya97/Sales_Finance_Report/blob/main/Images/top%2010%20products%20by%2021_vs_20%20percent.png?raw=true)
-
----------------
-
-### 11. Top 10 Products by Quantity
+### 10. Top 10 Products by Quantity
 
 - The highest-selling products delivered 34.3M units, with AQ Master wired x1 Ms alone contributing 4.2M units. The dominance of the "AQ Master" and "AQ Gamers" product lines underscores their importance as the company’s core volume drivers.
 
